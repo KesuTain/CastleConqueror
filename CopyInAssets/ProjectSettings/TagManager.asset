@@ -10,6 +10,8 @@ TagManager:
   - MobArea
   - EnemyArea
   - SystemActPoint
+  - NPC
+  - Warrior
   layers:
   - Default
   - TransparentFX

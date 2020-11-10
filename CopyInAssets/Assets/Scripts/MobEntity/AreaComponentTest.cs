@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AreaComponent : MonoBehaviour
+public class AreaComponentTest : MonoBehaviour
 {
     [Header("Parametrs")]
     [SerializeField]
